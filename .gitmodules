@@ -2,3 +2,7 @@
 	path = .docker
 	url = https://github.com/Xicy/.docker.git
 	branch = master
+[submodule "vendor/orbitali/core"]
+	path = vendor/orbitali/core
+	url = https://github.com/Orbitali/Core.git
+	branch = master
