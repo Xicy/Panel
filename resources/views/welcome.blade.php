@@ -1,4 +1,5 @@
 <!doctype html>
+@cache("test1")
 <html lang="{{ app()->getLocale() }}">
 <head>
     <meta charset="utf-8">
@@ -94,3 +95,4 @@
 </div>
 </body>
 </html>
+@endcache
