@@ -32,7 +32,7 @@ return [
      |
      */
     'storage' => [
-        'enabled' => true,
+        'enabled' => false,
         'driver' => 'redis', // redis, file, pdo, custom
         'path' => storage_path('debugbar'), // For file driver
         'connection' => null,   // Leave null for default connection (Redis/PDO)
@@ -53,7 +53,7 @@ return [
      |
      */
 
-    'include_vendors' => true,
+    'include_vendors' => false,
 
     /*
      |--------------------------------------------------------------------------
@@ -89,7 +89,7 @@ return [
      | Extension, without the server-side code. It uses Debugbar collectors instead.
      |
      */
-    'clockwork' => true,
+    'clockwork' => false,
 
     /*
      |--------------------------------------------------------------------------
@@ -106,7 +106,7 @@ return [
         'time' => true,  // Time Datalogger
         'memory' => true,  // Memory usage
         'exceptions' => true,  // Exception displayer
-        'log' => true,  // Logs from Monolog (merged in messages if enabled)
+        'log' => false,  // Logs from Monolog (merged in messages if enabled)
         'db' => true,  // Show database (PDO) queries and bindings
         'views' => true,  // Views with their data
         'route' => true,  // Current route information
@@ -116,10 +116,10 @@ return [
         'symfony_request' => true,  // Only one can be enabled..
         'mail' => true,  // Catch mail messages
         'laravel' => true, // Laravel version and environment
-        'events' => true, // All events fired
+        'events' => false, // All events fired
         'default_request' => true, // Regular or special Symfony request logger
-        'logs' => true, // Add the latest log messages
-        'files' => true, // Show the included files
+        'logs' => false, // Add the latest log messages
+        'files' => false, // Show the included files
         'config' => true, // Display config settings
         'cache' => true, // Display cache events
     ],
@@ -151,7 +151,7 @@ return [
             'full_log' => true
         ],
         'views' => [
-            'data' => true,    //Note: Can slow down the application, because the data can be quite large..
+            'data' => false,    //Note: Can slow down the application, because the data can be quite large..
         ],
         'route' => [
             'label' => true  // show complete route on bar
