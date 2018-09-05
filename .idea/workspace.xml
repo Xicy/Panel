@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0328d68-5d08-4185-be18-6166a628e45d" name="Default Changelist" comment="trans methodları düzenlendi&#10;@lang directive eklendi">
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Panel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Panel.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/debugbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/debugbar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2018_08_28_205829_create_language_parts_table.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/Todo.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/Todo.md" afterDir="false" />
+    <list default="true" id="a0328d68-5d08-4185-be18-6166a628e45d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/composer.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +24,7 @@
     <session id="-1400863596">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.opened" value="3" />
@@ -55,7 +39,7 @@
           <entry key="http" value="3" />
           <entry key="iml" value="1" />
           <entry key="js" value="1" />
-          <entry key="json" value="47" />
+          <entry key="json" value="49" />
           <entry key="lock" value="3" />
           <entry key="md" value="12" />
           <entry key="php" value="376" />
@@ -74,7 +58,7 @@
           <entry key="Git file" value="4" />
           <entry key="HTTP Request" value="3" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JSON" value="50" />
+          <entry key="JSON" value="52" />
           <entry key="Markdown" value="12" />
           <entry key="PHP" value="390" />
           <entry key="PLAIN_TEXT" value="1" />
@@ -91,13 +75,13 @@
           <entry key="gitignore" value="7" />
           <entry key="gitmodules" value="38" />
           <entry key="http" value="11" />
-          <entry key="json" value="350" />
+          <entry key="json" value="403" />
           <entry key="lock" value="2" />
           <entry key="md" value="625" />
           <entry key="php" value="5660" />
           <entry key="sh" value="1" />
           <entry key="stub" value="72" />
-          <entry key="txt" value="1154" />
+          <entry key="txt" value="1171" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -108,10 +92,10 @@
           <entry key="Blade" value="204" />
           <entry key="Git file" value="7" />
           <entry key="HTTP Request" value="11" />
-          <entry key="JSON" value="352" />
+          <entry key="JSON" value="405" />
           <entry key="Markdown" value="625" />
           <entry key="PHP" value="5528" />
-          <entry key="PLAIN_TEXT" value="1258" />
+          <entry key="PLAIN_TEXT" value="1275" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -131,11 +115,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vendor/orbitali/composer-include-files/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            <state relative-caret-position="187">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -195,7 +188,7 @@
       </list>
     </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vendor/orbitali/composer-include-files" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vendor/orbitali/core" />
     <option name="PUSH_TAGS">
       <GitPushTagMode />
     </option>
@@ -245,7 +238,6 @@
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Composer/README.md" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Composer/AutoloadGenerator.php" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Composer/Plugin.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/composer.json" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Providers/OrbitaliServiceProvider.php" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/helpers.php" />
         <option value="$PROJECT_DIR$/public/index.php" />
@@ -254,6 +246,7 @@
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/vendor/orbitali/composer-include-files/composer.json" />
         <option value="$PROJECT_DIR$/vendor/orbitali/composer-include-files/src/Composer/AutoloadGenerator.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/composer.json" />
       </list>
     </option>
   </component>
@@ -357,10 +350,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="156" />
-    <option name="y" value="55" />
+    <option name="x" value="-36" />
+    <option name="y" value="-17" />
     <option name="width" value="1440" />
-    <option name="height" value="788" />
+    <option name="height" value="843" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -419,17 +412,7 @@
               <item name="Panel" type="462c0819:PsiDirectoryNode" />
               <item name="vendor" type="462c0819:PsiDirectoryNode" />
               <item name="orbitali" type="462c0819:PsiDirectoryNode" />
-              <item name="composer-include-files" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Panel" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="orbitali" type="462c0819:PsiDirectoryNode" />
-              <item name="composer-include-files" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Composer" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1310,7 +1293,7 @@
       <updated>1535403069576</updated>
       <workItem from="1535403070717" duration="45654000" />
       <workItem from="1535826285471" duration="14533000" />
-      <workItem from="1536084664196" duration="16309000" />
+      <workItem from="1536084664196" duration="16613000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1535405151469</created>
@@ -1585,11 +1568,25 @@
       <option name="project" value="LOCAL" />
       <updated>1536172122983</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="düzenleme yapıldı">
+      <created>1536172685250</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1536172685250</updated>
+    </task>
+    <task id="LOCAL-00041" summary="düzenleme yapıldı">
+      <created>1536172724030</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1536172724030</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76496000" />
+    <option name="totallyTimeSpent" value="76800000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1601,25 +1598,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-230" y="536" width="1440" height="788" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.34710145" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Command Line Tools Console" order="0" weight="0.32939914" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.32939914" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="4" weight="0.32939914" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50053304" side_tool="true" weight="0.2725322" />
+      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49946696" weight="0.32939914" />
       <window_info anchor="bottom" id="Messages" order="5" weight="0.32939914" />
-      <window_info active="true" anchor="bottom" id="Docker" order="6" visible="true" weight="0.2725322" />
+      <window_info anchor="bottom" id="Docker" order="6" sideWeight="0.4989339" visible="true" weight="0.38837922" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.32939914" />
       <window_info anchor="bottom" id="Run" order="9" weight="0.32939914" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="13" weight="0.32939914" />
+      <window_info anchor="bottom" id="TODO" order="13" sideWeight="0.49946696" weight="0.32939914" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -1682,7 +1679,8 @@
     <MESSAGE value="düzeltme" />
     <MESSAGE value="first" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="düzenleme yapıldı" />
+    <option name="LAST_COMMIT_MESSAGE" value="düzenleme yapıldı" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -1923,13 +1921,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -2035,8 +2026,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/orbitali/composer-include-files/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        <state relative-caret-position="187">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
         </state>
       </provider>
     </entry>
