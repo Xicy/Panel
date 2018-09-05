@@ -32,7 +32,7 @@ return [
      |
      */
     'storage' => [
-        'enabled' => false,
+        'enabled' => true,
         'driver' => 'redis', // redis, file, pdo, custom
         'path' => storage_path('debugbar'), // For file driver
         'connection' => null,   // Leave null for default connection (Redis/PDO)
@@ -53,7 +53,7 @@ return [
      |
      */
 
-    'include_vendors' => false,
+    'include_vendors' => true,
 
     /*
      |--------------------------------------------------------------------------

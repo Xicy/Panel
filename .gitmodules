@@ -6,3 +6,7 @@
 	path = vendor/orbitali/core
 	url = https://github.com/Orbitali/Core.git
 	branch = master
+[submodule "vendor/orbitali/composer-include-files"]
+	path = vendor/orbitali/composer-include-files
+	url = https://github.com/Orbitali/composer-include-files.git
+	branch = master
