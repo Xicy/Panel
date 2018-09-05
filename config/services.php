@@ -38,7 +38,13 @@ return [
     'github' => [
         'client_id' => "e1564b8baf2770601cf0",         // Your GitHub Client ID
         'client_secret' => "220265792b9bd1ab36a8bd3ba443eb8633c8ab2f", // Your GitHub Client Secret
-        'redirect' => 'https://panel.test/auth/github/callback',
+        'redirect' => '/auth/github/callback',
+    ],
+
+    'twitter' => [
+        'client_id' => "ENU4eBmLzJIPMjeXwiaCbQ",         // Your GitHub Client ID
+        'client_secret' => "5vvrWNHSlgWx6oi2LOuqTQSg0O0N7aCbUKEDYYCQk", // Your GitHub Client Secret
+        'redirect' => '/auth/twitter/callback',
     ],
 
 ];
