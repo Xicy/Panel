@@ -1229,22 +1229,71 @@
             "time": "2018-07-15T17:25:16+00:00"
         },
         {
+            "name": "orbitali/composer-include-files",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Orbitali/composer-include-files.git",
+                "reference": "482128a9ecdb69b03e02ccd765201ee45984729f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Orbitali/composer-include-files/zipball/482128a9ecdb69b03e02ccd765201ee45984729f",
+                "reference": "482128a9ecdb69b03e02ccd765201ee45984729f",
+                "shasum": ""
+            },
+            "require": {
+                "composer-plugin-api": "^1.0"
+            },
+            "type": "composer-plugin",
+            "extra": {
+                "class": "ComposerIncludeFiles\\Plugin"
+            },
+            "autoload": {
+                "psr-4": {
+                    "ComposerIncludeFiles\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Tim Robertson",
+                    "email": "funkjedi@gmail.com"
+                },
+                {
+                    "name": "Umut Akkaya",
+                    "email": "umutakkaya1996@gmail.com"
+                }
+            ],
+            "description": "Include files at a higher priority than autoload files.",
+            "homepage": "https://github.com/orbitali/composer-include-files",
+            "keywords": [
+                "autoload",
+                "composer"
+            ],
+            "time": "2018-09-05T20:00:34+00:00"
+        },
+        {
             "name": "orbitali/core",
             "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Orbitali/Core.git",
-                "reference": "19c99a3da5b172dfa7423bee43af8477e05f4320"
+                "reference": "4a28338aed4b75f0eb0415b9214d1ad3478f94b5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Orbitali/Core/zipball/19c99a3da5b172dfa7423bee43af8477e05f4320",
-                "reference": "19c99a3da5b172dfa7423bee43af8477e05f4320",
+                "url": "https://api.github.com/repos/Orbitali/Core/zipball/4a28338aed4b75f0eb0415b9214d1ad3478f94b5",
+                "reference": "4a28338aed4b75f0eb0415b9214d1ad3478f94b5",
                 "shasum": ""
             },
             "require": {
                 "laravel/framework": "5.6.*",
                 "laravel/socialite": "^3.1",
+                "orbitali/composer-include-files": "dev-master",
                 "php": ">=7.1",
                 "predis/predis": "^1.1.1"
             },
@@ -1281,7 +1330,7 @@
             "keywords": [
                 "cms"
             ],
-            "time": "2018-09-04T21:41:52+00:00"
+            "time": "2018-09-05T19:00:55+00:00"
         },
         {
             "name": "paragonie/random_compat",
@@ -1574,16 +1623,16 @@
         },
         {
             "name": "psy/psysh",
-            "version": "v0.9.7",
+            "version": "v0.9.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bobthecow/psysh.git",
-                "reference": "4f5b6c090948773a8bfeea6a0f07ab7d0b24e932"
+                "reference": "ed3c32c4304e1a678a6e0f9dc11dd2d927d89555"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bobthecow/psysh/zipball/4f5b6c090948773a8bfeea6a0f07ab7d0b24e932",
-                "reference": "4f5b6c090948773a8bfeea6a0f07ab7d0b24e932",
+                "url": "https://api.github.com/repos/bobthecow/psysh/zipball/ed3c32c4304e1a678a6e0f9dc11dd2d927d89555",
+                "reference": "ed3c32c4304e1a678a6e0f9dc11dd2d927d89555",
                 "shasum": ""
             },
             "require": {
@@ -1644,7 +1693,7 @@
                 "interactive",
                 "shell"
             ],
-            "time": "2018-08-11T15:54:43+00:00"
+            "time": "2018-09-05T11:40:09+00:00"
         },
         {
             "name": "ramsey/uuid",
@@ -3845,16 +3894,16 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "7.3.3",
+            "version": "7.3.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "1bd5629cccfb2c0a9ef5474b4ff772349e1ec898"
+                "reference": "0356331bf62896dc56e3a15030b23b73f38b2935"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/1bd5629cccfb2c0a9ef5474b4ff772349e1ec898",
-                "reference": "1bd5629cccfb2c0a9ef5474b4ff772349e1ec898",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/0356331bf62896dc56e3a15030b23b73f38b2935",
+                "reference": "0356331bf62896dc56e3a15030b23b73f38b2935",
                 "shasum": ""
             },
             "require": {
@@ -3925,7 +3974,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2018-09-01T15:49:55+00:00"
+            "time": "2018-09-05T09:58:53+00:00"
         },
         {
             "name": "sebastian/code-unit-reverse-lookup",
