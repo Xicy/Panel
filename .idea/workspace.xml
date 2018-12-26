@@ -4,36 +4,11 @@
     <option name="ANALYZE_TEST_SOURCES" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0328d68-5d08-4185-be18-6166a628e45d" name="Default Changelist" comment="Indent fix">
-      <change afterPath="$PROJECT_DIR$/.docker/php-websocket/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.docker/php-websocket/supervisord.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.docker/php-websocket/supervisord.d/laravel-worker.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php-docker-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/assets/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/assets/app.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/assets/b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/socket.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/orbitali/asset/src/Asset.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/orbitali/asset/src/Config/asset.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/orbitali/asset/src/Foundations/Registry.php" afterDir="false" />
+    <list default="true" id="a0328d68-5d08-4185-be18-6166a628e45d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.docker" beforeDir="false" afterPath="$PROJECT_DIR$/.docker" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/nginx/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/nginx/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/nginx/sites/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/nginx/sites/default.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/php-fpm/xdebug.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/php-fpm/xdebug.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Panel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Panel.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/broadcasting.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/broadcasting.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Orbitali.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Orbitali.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,10 +65,10 @@
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.6" value="6" />
           <entry key="project.open.time.7" value="8" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -103,19 +78,19 @@
           <entry key="conf" value="41" />
           <entry key="css" value="1" />
           <entry key="editorconfig" value="7" />
-          <entry key="env" value="27" />
+          <entry key="env" value="28" />
           <entry key="gitignore" value="5" />
           <entry key="gitmodules" value="1" />
           <entry key="http" value="3" />
           <entry key="iml" value="1" />
           <entry key="ini" value="4" />
           <entry key="js" value="11" />
-          <entry key="json" value="83" />
+          <entry key="json" value="85" />
           <entry key="less" value="1" />
           <entry key="lock" value="4" />
           <entry key="log" value="1" />
           <entry key="md" value="20" />
-          <entry key="php" value="937" />
+          <entry key="php" value="942" />
           <entry key="php4" value="1" />
           <entry key="png" value="1" />
           <entry key="scss" value="1" />
@@ -128,7 +103,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key=".env file" value="27" />
+          <entry key=".env file" value="28" />
           <entry key="Bash" value="2" />
           <entry key="Blade" value="15" />
           <entry key="CSS" value="1" />
@@ -138,12 +113,12 @@
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="1" />
           <entry key="Ini" value="4" />
-          <entry key="JSON" value="87" />
+          <entry key="JSON" value="89" />
           <entry key="JavaScript" value="9" />
           <entry key="Less" value="1" />
           <entry key="Log" value="1" />
           <entry key="Markdown" value="20" />
-          <entry key="PHP" value="968" />
+          <entry key="PHP" value="973" />
           <entry key="PLAIN_TEXT" value="9" />
           <entry key="SCSS" value="1" />
           <entry key="Scratch" value="3" />
@@ -158,38 +133,38 @@
           <entry key="Dockerfile" value="86" />
           <entry key="conf" value="203" />
           <entry key="dummy" value="85" />
-          <entry key="env" value="324" />
+          <entry key="env" value="334" />
           <entry key="gitignore" value="7" />
           <entry key="gitmodules" value="38" />
           <entry key="http" value="11" />
           <entry key="ini" value="25" />
           <entry key="js" value="52" />
-          <entry key="json" value="514" />
+          <entry key="json" value="527" />
           <entry key="lock" value="2" />
           <entry key="md" value="818" />
           <entry key="php" value="16982" />
           <entry key="scss" value="1" />
           <entry key="sh" value="1" />
           <entry key="stub" value="357" />
-          <entry key="txt" value="2536" />
+          <entry key="txt" value="2720" />
           <entry key="xml" value="1" />
           <entry key="yml" value="114" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key=".env file" value="324" />
+          <entry key=".env file" value="334" />
           <entry key="Bash" value="5" />
           <entry key="Blade" value="294" />
           <entry key="Dockerfile" value="86" />
           <entry key="Git file" value="7" />
           <entry key="HTTP Request" value="11" />
           <entry key="Ini" value="25" />
-          <entry key="JSON" value="516" />
+          <entry key="JSON" value="529" />
           <entry key="JavaScript" value="52" />
           <entry key="Markdown" value="818" />
           <entry key="PHP" value="17045" />
-          <entry key="PLAIN_TEXT" value="2659" />
+          <entry key="PLAIN_TEXT" value="2843" />
           <entry key="SCSS" value="1" />
           <entry key="SmartyConfig" value="203" />
           <entry key="XML" value="1" />
@@ -198,6 +173,7 @@
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
         <counts>
+          <entry key="git.branch.checkout.revision" value="1" />
           <entry key="git.branch.compare" value="7" />
           <entry key="git.branch.merge" value="1" />
         </counts>
@@ -212,11 +188,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Orbitali.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+            <state relative-caret-position="510">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="49" column="121" selection-start-line="49" selection-start-column="121" selection-end-line="49" selection-end-column="121" />
             </state>
           </provider>
         </entry>
@@ -233,8 +227,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>new</find>
-      <find>JSFUNCTION_unpack</find>
       <find>JSFUNCTION_decodeBody</find>
       <find>gzip</find>
       <find>findOrNew</find>
@@ -263,6 +255,8 @@
       <find>profiler_enable</find>
       <find>output</find>
       <find>Debugbar::</find>
+      <find>'clock'</find>
+      <find>'clockwork'</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\umuta\Desktop\Panel\vendor\orbitali\core</dir>
@@ -282,7 +276,7 @@
       </list>
     </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vendor/orbitali/core" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
       <GitPushTagMode />
     </option>
@@ -319,7 +313,6 @@
         <option value="$PROJECT_DIR$/vendor/orbitali/core/composer.json" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Config/orbitali.php" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Providers/OrbitaliServiceProvider.php" />
-        <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/ClockWorkAuthenticator.php" />
         <option value="$PROJECT_DIR$/.docker/nginx/Dockerfile" />
         <option value="$PROJECT_DIR$/.docker/php-websocket/Dockerfile" />
@@ -328,7 +321,6 @@
         <option value="$PROJECT_DIR$/.docker/.env" />
         <option value="$PROJECT_DIR$/.docker/docker-compose.yml" />
         <option value="$PROJECT_DIR$/config/websockets.php" />
-        <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/config/broadcasting.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
         <option value="$PROJECT_DIR$/config/app.php" />
@@ -341,6 +333,8 @@
         <option value="$PROJECT_DIR$/.docker/php-fpm/xdebug.ini" />
         <option value="$PROJECT_DIR$/vendor/itsgoingd/clockwork/Clockwork/Support/Laravel/config/clockwork.php" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Orbitali.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/composer.json" />
       </list>
     </option>
   </component>
@@ -542,6 +536,82 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panel" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panel" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="itsgoingd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panel" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="itsgoingd" type="462c0819:PsiDirectoryNode" />
+              <item name="clockwork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panel" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="itsgoingd" type="462c0819:PsiDirectoryNode" />
+              <item name="clockwork" type="462c0819:PsiDirectoryNode" />
+              <item name="Clockwork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panel" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="itsgoingd" type="462c0819:PsiDirectoryNode" />
+              <item name="clockwork" type="462c0819:PsiDirectoryNode" />
+              <item name="Clockwork" type="462c0819:PsiDirectoryNode" />
+              <item name="Authentication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panel" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="itsgoingd" type="462c0819:PsiDirectoryNode" />
+              <item name="clockwork" type="462c0819:PsiDirectoryNode" />
+              <item name="Clockwork" type="462c0819:PsiDirectoryNode" />
+              <item name="Support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panel" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="itsgoingd" type="462c0819:PsiDirectoryNode" />
+              <item name="clockwork" type="462c0819:PsiDirectoryNode" />
+              <item name="Clockwork" type="462c0819:PsiDirectoryNode" />
+              <item name="Support" type="462c0819:PsiDirectoryNode" />
+              <item name="Laravel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panel" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="itsgoingd" type="462c0819:PsiDirectoryNode" />
+              <item name="clockwork" type="462c0819:PsiDirectoryNode" />
+              <item name="Clockwork" type="462c0819:PsiDirectoryNode" />
+              <item name="Support" type="462c0819:PsiDirectoryNode" />
+              <item name="Laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="Eloquent" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Orbitali'; set:file[Panel]:vendor/*; class com.intellij.psi.search.scope.packageSet.NamedScope">
           <expand>
@@ -633,52 +703,6 @@
               <item name="Panel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="vendor" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Panel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Panel" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Panel" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="itsgoingd" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Panel" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="itsgoingd" type="462c0819:PsiDirectoryNode" />
-              <item name="clockwork" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Panel" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="itsgoingd" type="462c0819:PsiDirectoryNode" />
-              <item name="clockwork" type="462c0819:PsiDirectoryNode" />
-              <item name="Clockwork" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Panel" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="itsgoingd" type="462c0819:PsiDirectoryNode" />
-              <item name="clockwork" type="462c0819:PsiDirectoryNode" />
-              <item name="Clockwork" type="462c0819:PsiDirectoryNode" />
-              <item name="Support" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1583,34 +1607,7 @@
       <workItem from="1545145763122" duration="5751000" />
       <workItem from="1545327108415" duration="5118000" />
       <workItem from="1545500946694" duration="934000" />
-    </task>
-    <task id="LOCAL-00012" summary="first commit">
-      <created>1535499484304</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1535499484304</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Düzeltmeler Yapıldı">
-      <created>1535499547329</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1535499547329</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Düzeltmeler Yapıldı">
-      <created>1535499582901</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1535499582901</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Düzeltmeler Yapıldı">
-      <created>1535636848836</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1535636848836</updated>
+      <workItem from="1545854859224" duration="2069000" />
     </task>
     <task id="LOCAL-00016" summary="Düzeltmeler Yapıldı">
       <created>1535667504180</created>
@@ -1927,11 +1924,39 @@
       <option name="project" value="LOCAL" />
       <updated>1544996778644</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Orbitali Debugbar passived and added clock">
+      <created>1545854973167</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1545854973168</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Orbitali Asset Test&#10;asset tested">
+      <created>1545855010163</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1545855010163</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Updated for orbitali developing">
+      <created>1545855072649</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1545855072649</updated>
+    </task>
+    <task id="LOCAL-00064" summary="fixed back-slashes">
+      <created>1545856230206</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1545856230206</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="214906000" />
+    <option name="totallyTimeSpent" value="216975000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -1944,9 +1969,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15884861" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16044776" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Command Line Tools Console" order="0" weight="0.32939914" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
@@ -2028,10 +2054,6 @@
       <path value="$PROJECT_DIR$/vendor/orbitali/core/vendor/tijsverkoyen/css-to-inline-styles" />
       <path value="$PROJECT_DIR$/vendor/orbitali/core/vendor/vlucas/phpdotenv" />
     </ignored-roots>
-    <MESSAGE value="trans isimleri düzenlendi" />
-    <MESSAGE value=", den dolayı hata düzeldldi" />
-    <MESSAGE value="Composer Plugin added  for helper priority" />
-    <MESSAGE value="test" />
     <MESSAGE value="düzeltme" />
     <MESSAGE value="first" />
     <MESSAGE value="first commit" />
@@ -2053,55 +2075,16 @@
     <MESSAGE value="Asset - fix composer file" />
     <MESSAGE value="Indent fix" />
     <MESSAGE value="Clockwork debug added &#10;laravel framework version updated&#10;delete timestamp in language part&#10;user_extras foreign key added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clockwork debug added &#10;laravel framework version updated&#10;delete timestamp in language part&#10;user_extras foreign key added" />
+    <MESSAGE value="Orbitali Debugbar passived and added clock" />
+    <MESSAGE value="Orbitali Asset Test&#10;asset tested" />
+    <MESSAGE value="Updated for orbitali developing" />
+    <MESSAGE value="fixed back-slashes" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed back-slashes" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/routes/api.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/RussianCaching.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Http/Middleware/CacheRequest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="21" column="37" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orchid/socket/stubs/listener.stub">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/cboden/ratchet/tests/helpers/Ratchet/Mock/Connection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/cboden/ratchet/src/Ratchet/Wamp/WampConnection.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/cboden/ratchet/src/Ratchet/Http/HttpRequestParser.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -2378,17 +2361,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/itsgoingd/clockwork/Clockwork/Clockwork.php">
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Orbitali.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4345">
-          <caret line="56" column="30" lean-forward="true" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+        <state relative-caret-position="510">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Orbitali.php">
+    <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/itsgoingd/clockwork/Clockwork/Authentication/SimpleAuthenticator.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/itsgoingd/clockwork/Clockwork/Support/Laravel/ClockworkServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="102" column="33" selection-start-line="102" selection-start-column="33" selection-end-line="102" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/itsgoingd/clockwork/Clockwork/Clockwork.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1717">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/itsgoingd/clockwork/Clockwork/Support/Laravel/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/ClockWorkAuthenticator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="49" column="121" selection-start-line="49" selection-start-column="121" selection-end-line="49" selection-end-column="121" />
         </state>
       </provider>
     </entry>

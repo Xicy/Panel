@@ -45,9 +45,9 @@
             "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
         ],
         "post-update-cmd": [
-            "@php -r \"copy('orbitali.git\\asset\\.git', 'vendor\\orbitali\\asset\\.git');\"",
-            "@php -r \"copy('orbitali.git\\composer-include-files\\.git', 'vendor\\orbitali\\composer-include-files\\.git');\"",
-            "@php -r \"copy('orbitali.git\\core\\.git', 'vendor\\orbitali\\core\\.git');\""
+            "@php -r \"copy('orbitali.git/core/.git','vendor/orbitali/core/.git');\"",
+            "@php -r \"copy('orbitali.git/asset/.git','vendor/orbitali/asset/.git');\"",
+            "@php -r \"copy('orbitali.git/composer-include-files/.git','vendor/orbitali/composer-include-files/.git');\""
         ],
         "post-create-project-cmd": [
             "@php artisan key:generate"
