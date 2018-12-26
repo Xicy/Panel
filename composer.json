@@ -9,10 +9,13 @@
     "type": "project",
     "require": {
         "php": "^7.1.3",
+        "beyondcode/laravel-websockets": "^1.0",
         "fideloper/proxy": "^4.0",
-        "laravel/framework": "5.6.*",
+        "laravel/framework": "5.7.*",
         "laravel/tinker": "^1.0",
-        "orbitali/core": "dev-master"
+        "meenie/munee": "^1.7",
+        "orbitali/core": "dev-master",
+        "orchid/socket": "^1.7"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.1",
@@ -40,6 +43,11 @@
     "scripts": {
         "post-root-package-install": [
             "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
+        ],
+        "post-update-cmd": [
+            "@php -r \"copy('orbitali.git\asset\.git', 'vendor\orbitali\asset\.git');\"",
+            "@php -r \"copy('orbitali.git\composer-include-files\.git', 'vendor\orbitali\composer-include-files\.git');\"",
+            "@php -r \"copy('orbitali.git\core\.git', 'vendor\orbitali\core\.git');\""
         ],
         "post-create-project-cmd": [
             "@php artisan key:generate"

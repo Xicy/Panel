@@ -13,6 +13,13 @@
 
 Route::get('/', "Controller@test");
 
-Auth::routes();
-
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('{asset}', function () {
+    return \Munee\Dispatcher::run(new \Munee\Request());
+})->where("asset", "^(.*\.(?:css|less|scss|js|coffee|jpg|png|gif|jpeg))$");
+
+Route::get('/a', function () {
+    $o = clock(auth()->user(), auth()->user()->extras, auth()->user()->extras->last_login_ip);
+    return $o;
+});
