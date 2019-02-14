@@ -91,6 +91,7 @@
             <a href="https://forge.laravel.com">Forge</a>
             <a href="https://github.com/laravel/laravel">GitHub</a>
             <a href="https://github.com/laravel/laravel">@lang("test","deneme")</a>
+            @lang('locale.language.tr')
         </div>
     </div>
 </div>

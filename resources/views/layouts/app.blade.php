@@ -12,7 +12,7 @@
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.7.3/socket.io.min.js" defer></script>
+    <script src="https://raw.githack.com/SortableJS/Sortable/master/Sortable.js"></script>
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="https://fonts.gstatic.com">
@@ -80,5 +80,142 @@
         @yield('content')
     </main>
 </div>
+
+
+<div class="row">
+
+    <div id="visual_design" style="background: red;padding: 5px" class="col-8 my-0">
+
+    </div>
+    <div id="visual_elements" style="background: blue;padding: 5px" class="col-4 my-0">
+        <div class="item nestedable" style="background: cyan;padding: .75rem 1.25rem;margin: 10px 0 0 0"
+             data-type="detail">
+            detail
+        </div>
+        <div class="item nestedable" style="background: green;padding: .75rem 1.25rem;margin: 10px 0 0 0"
+             data-type="detail">
+            detail 2
+        </div>
+    </div>
+
+</div>
+
+<script>
+    function toJSON(node) {
+        node = node || this;
+        var obj = {
+            nodeType: node.nodeType
+        };
+        if (node.tagName) {
+            obj.tagName = node.tagName.toLowerCase();
+        } else if (node.nodeName) {
+            obj.nodeName = node.nodeName;
+        }
+        if (node.nodeValue) {
+            obj.nodeValue = node.nodeValue;
+        }
+        var attrs = node.attributes;
+        if (attrs) {
+            var length = attrs.length;
+            var arr = obj.attributes = new Array(length);
+            for (var i = 0; i < length; i++) {
+                attr = attrs[i];
+                arr[i] = [attr.nodeName, attr.nodeValue];
+            }
+        }
+        var childNodes = node.childNodes;
+        if (childNodes) {
+            length = childNodes.length;
+            arr = obj.childNodes = new Array(length);
+            for (i = 0; i < length; i++) {
+                arr[i] = toJSON(childNodes[i]);
+            }
+        }
+        console.log(obj);
+        return obj;
+    }
+
+    function toDOM(obj) {
+        if (typeof obj == 'string') {
+            obj = JSON.parse(obj);
+        }
+        var node, nodeType = obj.nodeType;
+        switch (nodeType) {
+            case 1: //ELEMENT_NODE
+                node = document.createElement(obj.tagName);
+                var attributes = obj.attributes || [];
+                for (var i = 0, len = attributes.length; i < len; i++) {
+                    var attr = attributes[i];
+                    node.setAttribute(attr[0], attr[1]);
+                }
+                break;
+            case 3: //TEXT_NODE
+                node = document.createTextNode(obj.nodeValue);
+                break;
+            case 8: //COMMENT_NODE
+                node = document.createComment(obj.nodeValue);
+                break;
+            case 9: //DOCUMENT_NODE
+                node = document.implementation.createDocument();
+                break;
+            case 10: //DOCUMENT_TYPE_NODE
+                node = document.implementation.createDocumentType(obj.nodeName);
+                break;
+            case 11: //DOCUMENT_FRAGMENT_NODE
+                node = document.createDocumentFragment();
+                break;
+            default:
+                return node;
+        }
+        if (nodeType == 1 || nodeType == 11) {
+            var childNodes = obj.childNodes || [];
+            for (i = 0, len = childNodes.length; i < len; i++) {
+                node.appendChild(toDOM(childNodes[i]));
+            }
+        }
+        return node;
+    }
+</script>
+<script type="text/javascript">
+    (function () {
+        'use strict';
+        var id = function (id) {
+            return document.getElementById(id);
+        };
+
+        var onAdd = function (evt) {
+            new Sortable(evt.item, {
+                group: 'shared',
+                // animation: 150,
+                // invertSwap: true,
+                sort: true,
+                invertSwap: true,
+                fallbackOnBody: true,
+                onAdd
+            });
+        };
+
+        var _visual_design = Sortable.create(visual_design, {
+            sort: true,
+            invertSwap: true,
+            fallbackOnBody: true,
+            group: 'shared',
+            onAdd
+        });
+
+        var _visual_elements = new Sortable(visual_elements, {
+            group: {
+                name: 'shared',
+                pull: 'clone',
+                put: false // Do not allow items to be put into this list
+            },
+            sort: false
+        });
+
+        console.log(visual_elements, visual_design);
+    })();
+</script>
+
+
 </body>
 </html>
