@@ -11,5 +11,30 @@ let mix = require('laravel-mix');
  |
  */
 
-mix.js('resources/assets/js/app.js', 'public/js')
-    .sass('resources/assets/sass/app.scss', 'public/css');
+mix
+/* CSS */
+    .sass('resources/assets/sass/main.scss', 'public/css/dashmix.css')
+    .sass('resources/assets/sass/dashmix/themes/xeco.scss', 'public/css/themes/')
+    .sass('resources/assets/sass/dashmix/themes/xinspire.scss', 'public/css/themes/')
+    .sass('resources/assets/sass/dashmix/themes/xmodern.scss', 'public/css/themes/')
+    .sass('resources/assets/sass/dashmix/themes/xsmooth.scss', 'public/css/themes/')
+    .sass('resources/assets/sass/dashmix/themes/xwork.scss', 'public/css/themes/')
+    .sass('resources/assets/sass/dashmix/themes/xdream.scss', 'public/css/themes/')
+    .sass('resources/assets/sass/dashmix/themes/xpro.scss', 'public/css/themes/')
+    .sass('resources/assets/sass/dashmix/themes/xplay.scss', 'public/css/themes/')
+
+    /* JS */
+    .js('resources/assets/js/laravel/app.js', 'public/js/laravel.app.js')
+    .js('resources/assets/js/dashmix/app.js', 'public/js/dashmix.app.js')
+
+    /* FONTS */
+    .copy('resources/assets/fonts/', 'public/fonts')
+
+    /* Tools */
+    .browserSync('localhost:8000')
+    .disableNotifications()
+
+    /* Options */
+    .options({
+        processCssUrls: false
+    });

@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('/', "Controller@test");
+//Route::get('/', "Controller@test");
 
 Route::get('/home', 'HomeController@index')->name('home');
 
@@ -23,3 +23,11 @@ Route::get('/a', function () {
     $o = clock(auth()->user(), auth()->user()->extras, auth()->user()->extras->last_login_ip);
     return $o;
 });
+
+
+Route::view('/', 'landing');
+Route::match(['get', 'post'], '/dashboard', function () {
+    return view('dashboard');
+});
+Route::view('/examples/plugin', 'examples.plugin');
+Route::view('/examples/blank', 'examples.blank');

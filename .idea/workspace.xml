@@ -4,29 +4,55 @@
     <option name="ANALYZE_TEST_SOURCES" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0328d68-5d08-4185-be18-6166a628e45d" name="Default Changelist" comment="orbitali git">
-      <change afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Home2Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Sockets/MyClass.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/socket.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/websockets.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/assets/a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/clockwork/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="a0328d68-5d08-4185-be18-6166a628e45d" name="Default Changelist" comment="commit message">
+      <change afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/fontawesome/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/fontawesome/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/fontawesome/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/fontawesome/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/fontawesome/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/fontawesome/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/fontawesome/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/fontawesome/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/fontawesome/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/fontawesome/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/fontawesome/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/fontawesome/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/fontawesome/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/fontawesome/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/fontawesome/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/simple-line-icons/Simple-Line-Icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/simple-line-icons/Simple-Line-Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/simple-line-icons/Simple-Line-Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/dashboard.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/examples/blank.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/examples/plugin.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/landing.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/backend.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/simple.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/auth/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/auth/passwords/email.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/auth/passwords/reset.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/auth/register.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/debugbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/debugbar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/assets/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/assets/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/assets/b.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Config/orbitali.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Config/orbitali.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/ClockWorkAuthenticator.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/ClockWorkAuthenticator.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/RussianCaching.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/RussianCaching.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/LoginController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Middleware/FlushViews.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Middleware/FlushViews.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Providers/OrbitaliServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Providers/OrbitaliServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/header/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/header/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/header/user.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/header/user.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,7 +123,7 @@
           <entry key="Dockerfile" value="24" />
           <entry key="artisan" value="1" />
           <entry key="conf" value="41" />
-          <entry key="css" value="1" />
+          <entry key="css" value="6" />
           <entry key="editorconfig" value="7" />
           <entry key="env" value="33" />
           <entry key="gitignore" value="6" />
@@ -106,19 +132,20 @@
           <entry key="iWbfZfXM7V34448XlM6Po3CYch7VaHJP4o0XMBJh" value="2" />
           <entry key="iml" value="1" />
           <entry key="ini" value="4" />
-          <entry key="js" value="11" />
-          <entry key="json" value="89" />
+          <entry key="js" value="36" />
+          <entry key="json" value="94" />
           <entry key="less" value="1" />
           <entry key="lock" value="4" />
           <entry key="log" value="1" />
           <entry key="md" value="21" />
-          <entry key="php" value="1329" />
+          <entry key="php" value="1403" />
           <entry key="php4" value="1" />
           <entry key="png" value="1" />
-          <entry key="scss" value="1" />
+          <entry key="scss" value="4" />
           <entry key="sh" value="2" />
           <entry key="sql" value="2" />
           <entry key="stub" value="67" />
+          <entry key="svg" value="2" />
           <entry key="txt" value="2" />
           <entry key="xml" value="3" />
           <entry key="yml" value="10" />
@@ -128,23 +155,24 @@
         <counts>
           <entry key=".env file" value="33" />
           <entry key="Bash" value="2" />
-          <entry key="Blade" value="25" />
-          <entry key="CSS" value="1" />
+          <entry key="Blade" value="58" />
+          <entry key="CSS" value="6" />
           <entry key="Dockerfile" value="24" />
           <entry key="Git file" value="6" />
           <entry key="HTTP Request" value="3" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="1" />
           <entry key="Ini" value="4" />
-          <entry key="JSON" value="93" />
-          <entry key="JavaScript" value="9" />
+          <entry key="JSON" value="98" />
+          <entry key="JavaScript" value="34" />
           <entry key="Less" value="1" />
           <entry key="Log" value="1" />
           <entry key="Markdown" value="21" />
-          <entry key="PHP" value="1372" />
+          <entry key="PHP" value="1413" />
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="SCSS" value="1" />
+          <entry key="SCSS" value="4" />
           <entry key="SQL" value="2" />
+          <entry key="SVG" value="2" />
           <entry key="Scratch" value="4" />
           <entry key="SmartyConfig" value="41" />
           <entry key="XML" value="3" />
@@ -162,15 +190,15 @@
           <entry key="gitmodules" value="38" />
           <entry key="http" value="11" />
           <entry key="ini" value="25" />
-          <entry key="js" value="52" />
-          <entry key="json" value="527" />
+          <entry key="js" value="98" />
+          <entry key="json" value="537" />
           <entry key="lock" value="2" />
           <entry key="md" value="818" />
-          <entry key="php" value="24370" />
+          <entry key="php" value="25353" />
           <entry key="scss" value="1" />
           <entry key="sh" value="1" />
           <entry key="stub" value="1020" />
-          <entry key="txt" value="3977" />
+          <entry key="txt" value="4310" />
           <entry key="xml" value="1" />
           <entry key="yml" value="114" />
         </counts>
@@ -179,16 +207,16 @@
         <counts>
           <entry key=".env file" value="419" />
           <entry key="Bash" value="5" />
-          <entry key="Blade" value="1148" />
+          <entry key="Blade" value="1889" />
           <entry key="Dockerfile" value="86" />
           <entry key="Git file" value="7" />
           <entry key="HTTP Request" value="11" />
           <entry key="Ini" value="25" />
-          <entry key="JSON" value="529" />
-          <entry key="JavaScript" value="52" />
+          <entry key="JSON" value="539" />
+          <entry key="JavaScript" value="98" />
           <entry key="Markdown" value="818" />
-          <entry key="PHP" value="24242" />
-          <entry key="PLAIN_TEXT" value="4177" />
+          <entry key="PHP" value="24484" />
+          <entry key="PLAIN_TEXT" value="4510" />
           <entry key="SCSS" value="1" />
           <entry key="SmartyConfig" value="203" />
           <entry key="XML" value="1" />
@@ -199,7 +227,7 @@
         <counts>
           <entry key="git.branch.checkout.revision" value="1" />
           <entry key="git.branch.compare" value="7" />
-          <entry key="git.branch.merge" value="1" />
+          <entry key="git.branch.merge" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.php.new.class">
@@ -212,27 +240,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Views/auth/login.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+            <state relative-caret-position="187">
+              <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="117" column="20" lean-forward="true" selection-start-line="117" selection-start-column="20" selection-end-line="117" selection-end-column="20" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#4787#6430#0#HTML" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/LoginController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="91" column="26" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Views/dashboard/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -244,20 +283,12 @@
       <list>
         <option value="HTTP Request" />
         <option value="JavaScript File" />
+        <option value="Blade" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>profiler_enable</find>
-      <find>output</find>
-      <find>Debugbar::</find>
-      <find>'clock'</find>
-      <find>'clockwork'</find>
-      <find>ali</find>
-      <find>handle</find>
-      <find>unsi</find>
-      <find>singleton</find>
       <find>boot</find>
       <find>Cache</find>
       <find>publis</find>
@@ -279,6 +310,15 @@
       <find>start</find>
       <find>redis</find>
       <find>simpleList</find>
+      <find>panel.</find>
+      <find>dashboard</find>
+      <find>panel</find>
+      <find>route('panel.dashboard')</find>
+      <find>Analy</find>
+      <find>publishes</find>
+      <find>view</find>
+      <find>&lt;!--</find>
+      <find>--&gt;</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\umuta\Desktop\Panel\vendor\orbitali\core</dir>
@@ -298,7 +338,7 @@
       </list>
     </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vendor/orbitali/core" />
     <option name="PUSH_TAGS">
       <GitPushTagMode />
     </option>
@@ -310,27 +350,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/Console/Commands/syncLocale.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Database/Seeders/Locale.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Database/Migrations/2019_02_10_000010_create_websites_table.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Database/Migrations/2019_02_10_000009_create_language_parts_table.php" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Config/countries.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Config/languages.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Database/Seeders/LocaleSeeder.php" />
-        <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Database/Seeds/LocaleSeeder.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Providers/SeedServiceProvider.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Listeners/AuthEventSubscriber.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Models/User.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Models/WebsiteLanguage.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Models/Website.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Models/LanguagePart.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Models/Category.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Database/Migrations/2019_02_10_000014_create_categories_table.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/KeyValueCollection.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/helpers.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Providers/BlueprintServiceProvider.php" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Orbitali.php" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Models/SitemapExtra.php" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Models/UserExtra.php" />
@@ -351,16 +370,37 @@
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Middleware/OrbitaliLoader.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Home2Controller.php" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/RussianCaching.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/LoginController.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Providers/OrbitaliServiceProvider.php" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/ClockWorkAuthenticator.php" />
         <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
         <option value="$PROJECT_DIR$/config/debugbar.php" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Middleware/FlushViews.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Config/orbitali.php" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/assets/js/laravel/bootstrap.js" />
+        <option value="$PROJECT_DIR$/resources/assets/js/laravel/app.js" />
+        <option value="$PROJECT_DIR$/webpack.mix.js" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/simple.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Routes/panel.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/backend.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/footer.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/header.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/nav.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Views/dashboard/index.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Config/orbitali.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Providers/OrbitaliServiceProvider.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/helpers.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/header/user.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/ForgotPasswordController.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/LoginController.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/RegisterController.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/ResetPasswordController.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Routes/web.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/header/index.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/app.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Views/auth/login.blade.php" />
       </list>
     </option>
   </component>
@@ -372,6 +412,9 @@
   </component>
   <component name="NamedScopeManager">
     <scope name="Orbitali" pattern="file[Panel]:vendor/orbitali//*" />
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
@@ -511,7 +554,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="767" />
-    <option name="y" value="17" />
+    <option name="y" value="7" />
     <option name="width" value="974" />
     <option name="height" value="1050" />
   </component>
@@ -559,7 +602,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Orbitali'; set:file[Panel]:vendor/orbitali//*; class com.intellij.psi.search.scope.packageSet.NamedScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -622,7 +665,7 @@
               <item name="core" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="Http" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Listeners" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Controllers" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="Panel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -631,7 +674,39 @@
               <item name="orbitali" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="core" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Providers" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Http" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Controllers" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Auth" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Panel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="vendor" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="orbitali" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="core" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Panel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="vendor" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="orbitali" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="core" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="inc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Panel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="vendor" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="orbitali" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="core" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="inc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="header" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -670,27 +745,6 @@
             <path>
               <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
               <item name="Panel" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Panel" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Panel" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Panel" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Panel" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -698,13 +752,6 @@
               <item name="Panel" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Panel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Panel" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -728,19 +775,19 @@
     <property name="settings.editor.selected.configurable" value="Docker" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\umuta\Desktop\Panel\app\Http\Controllers" />
-      <recent name="C:\Users\umuta\Desktop\Panel\vendor\orbitali\core\src\Http\Traits" />
-      <recent name="C:\Users\umuta\Desktop\Panel\vendor\orbitali\core\src\Http\Models" />
-      <recent name="C:\Users\umuta\Desktop\Panel\vendor\orbitali\core\src\Providers" />
-      <recent name="C:\Users\umuta\Desktop\Panel\vendor\orbitali\core\src\Database\Migrations" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\umuta\Desktop\Panel\vendor\orbitali\core\src\Database" />
-      <recent name="C:\Users\umuta\Desktop\Panel\storage" />
-      <recent name="C:\Users\umuta\Desktop\Panel\vendor\orbitali\entity\src\Foundations" />
-      <recent name="C:\Users\umuta\Desktop\Panel\vendor\orbitali\core\src\Http\Controllers\Auth" />
-      <recent name="C:\Users\umuta\Desktop\Panel\vendor\orbitali\core\src\Http" />
+      <recent name="C:\Users\umuta\Desktop\Panel\vendor\orbitali\core\src" />
+      <recent name="C:\Users\umuta\Desktop\Panel\vendor\orbitali\core\src\Views\inc\header" />
+      <recent name="C:\Users\umuta\Desktop\Panel\vendor\orbitali\core\src\Views" />
+      <recent name="C:\Users\umuta\Desktop\Panel\public" />
+      <recent name="C:\Users\umuta\Desktop\Panel\public\aaa" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\umuta\Desktop\Panel\vendor\orbitali\core\src\Views" />
+      <recent name="C:\Users\umuta\Desktop\Panel\vendor\orbitali\core\src\Views\assets" />
+      <recent name="C:\Users\umuta\Desktop\Panel\vendor\orbitali\core\src\Views\inc\header" />
+      <recent name="C:\Users\umuta\Desktop\Panel\vendor\orbitali\core\src\Views\inc" />
+      <recent name="C:\Users\umuta\Desktop\Panel\resources\assets\fonts" />
     </key>
   </component>
   <component name="RestClientSettings">
@@ -1619,28 +1666,7 @@
       <workItem from="1549914778938" duration="13320000" />
       <workItem from="1549992623625" duration="427000" />
       <workItem from="1549993359742" duration="1031000" />
-      <workItem from="1550074498011" duration="12083000" />
-    </task>
-    <task id="LOCAL-00024" summary="composer json hata düzeltme">
-      <created>1535905689880</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1535905689880</updated>
-    </task>
-    <task id="LOCAL-00025" summary="comment silindi">
-      <created>1536086385750</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1536086385750</updated>
-    </task>
-    <task id="LOCAL-00026" summary="trans methodları düzenlendi&#10;@lang directive eklendi">
-      <created>1536088014223</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1536088014223</updated>
+      <workItem from="1550074498011" duration="22853000" />
     </task>
     <task id="LOCAL-00027" summary="migrations lar düzenlendi&#10;auth için controllerlar eklendi&#10;helper düzenlendi&#10;services provider'a migrations lar için otomatik tanımlama eklendi&#10;ve socialite bağımlığı bağlandı&#10;route a auth lar eklendi">
       <created>1536092986899</created>
@@ -1964,11 +1990,32 @@
       <option name="project" value="LOCAL" />
       <updated>1549927403288</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="--- Orbitali Status ---&#10;* UserExtra fixed for login&#10;* FlushView RussianCaching updated for file cache system&#10;* ClockWork fixed auth control">
+      <created>1550123014168</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1550123014169</updated>
+    </task>
+    <task id="LOCAL-00074" summary="commit message">
+      <created>1550123132827</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1550123132827</updated>
+    </task>
+    <task id="LOCAL-00075" summary="--- Orbitali Status ---&#10;*Added dashboard template for temporarily&#10;*Views add to provider with Orbitali namespace">
+      <created>1550168399367</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1550168399367</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="270467000" />
+    <option name="totallyTimeSpent" value="281237000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -1984,11 +2031,11 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2585288" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2585288" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Command Line Tools Console" order="0" weight="0.32939914" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.32939914" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50159913" side_tool="true" weight="0.20386267" />
       <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49946696" weight="0.32939914" />
       <window_info anchor="bottom" id="Messages" order="5" weight="0.32939914" />
@@ -2066,9 +2113,6 @@
       <path value="$PROJECT_DIR$/vendor/orbitali/core/vendor/tijsverkoyen/css-to-inline-styles" />
       <path value="$PROJECT_DIR$/vendor/orbitali/core/vendor/vlucas/phpdotenv" />
     </ignored-roots>
-    <MESSAGE value="düzenlendi" />
-    <MESSAGE value="Kullanıcı girişi yapıldı&#10;bir kullanıcının birden fazla auth provider'ı olması sağlandı&#10;user modeli düzenlendi&#10;service provider'a config editi eklendi auth için" />
-    <MESSAGE value="Auth&#10;Kullanıcı girişi Düzenlendi&#10;KeyValue için traiter ve collection yazıldı &#10;EventListener Eklendi&#10;AuthEventListener eklendi son girilen ip tutuluyor&#10;Tablolar güncellendi" />
     <MESSAGE value="Codacy&#10;Kod kalitesi için düzeltmeler" />
     <MESSAGE value="Codacy&#10;Kod kalitesi için düzeltme" />
     <MESSAGE value="Codacy&#10;Kod Kalitesi Arttırma" />
@@ -2091,342 +2135,345 @@
     <MESSAGE value="--- Orbitali Status ---&#10;*Language and Country moved to database directory&#10;*Language and Country added inside seeder of lang_part&#10;&#10;*Migration names are changed and linked staticly&#10;&#10;*Localization finder disabled for now&#10;&#10;*Models' updated" />
     <MESSAGE value="--- Orbitali Status ---&#10;*Added Seed service&#10;*Split Blueprint service&#10;*Added ExtendExtra trait __get and __set, must be add $withoutExtra = [/*columns of table*/] and trait&#10;*Added WebsiteLanguage&#10;*Fixed category table&#10;*Fixed namespace of seeds" />
     <MESSAGE value="--- Orbitali Status ---&#10;*OrbitaliLocalization name changed&#10;*orbitali() function fixed for null value&#10;*Models parents fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="--- Orbitali Status ---&#10;*OrbitaliLocalization name changed&#10;*orbitali() function fixed for null value&#10;*Models parents fixed" />
+    <MESSAGE value="--- Orbitali Status ---&#10;* UserExtra fixed for login&#10;* FlushView RussianCaching updated for file cache system&#10;* ClockWork fixed auth control" />
+    <MESSAGE value="commit message" />
+    <MESSAGE value="--- Orbitali Status ---&#10;*Added dashboard template for temporarily&#10;*Views add to provider with Orbitali namespace" />
+    <option name="LAST_COMMIT_MESSAGE" value="--- Orbitali Status ---&#10;*Added dashboard template for temporarily&#10;*Views add to provider with Orbitali namespace" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/PendingResourceRegistration.php">
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/laravel/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/dashmix/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2220">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#148#176#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php">
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/laravel/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Home2Controller.php">
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/dashmix/modules/tools.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="-205">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/dashmix/modules/helpers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2346">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/custom/_main.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/custom/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1473">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/themes/xdream.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/aaa/js/plugins/bootstrap-colorpicker/js/bootstrap-colorpicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1224">
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.mix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/dashmix/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/dashmix/modules/template.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#201#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/landing.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/simple.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/silber/bouncer/src/Database/HasRolesAndAbilities.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/silber/bouncer/src/Database/Concerns/HasAbilities.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="95" column="39" selection-start-line="95" selection-start-column="39" selection-end-line="95" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Http/Models/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Http/Middleware/OrbitaliLoader.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/itsgoingd/clockwork/Clockwork/Support/Laravel/helpers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/framework/sessions/iWbfZfXM7V34448XlM6Po3CYch7VaHJP4o0XMBJh">
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Providers/SeedServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/itsgoingd/clockwork/Clockwork/Support/Laravel/ClockworkController.php">
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Routes/panel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/panelError.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/itsgoingd/clockwork/Clockwork/Support/Laravel/ClockworkServiceProvider.php">
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/sidebar.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
-          <caret line="168" column="46" selection-start-line="168" selection-start-column="32" selection-end-line="168" selection-end-column="51" />
+        <state relative-caret-position="213">
+          <caret line="55" column="57" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/itsgoingd/clockwork/Clockwork/Support/Laravel/ClockworkMiddleware.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/itsgoingd/clockwork/Clockwork/Authentication/AuthenticatorInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/itsgoingd/clockwork/Clockwork/Support/Laravel/ClockworkSupport.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/framework/sessions/4O6BUcpkmws7Mxxj2TGt5H7sNCKATIQLmeVBx4NC">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="142" selection-start-column="142" selection-end-column="142" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Http/Listeners/AuthEventSubscriber.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/dashboard.blade.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Session/SessionManager.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3383">
-          <caret line="199" column="36" selection-start-line="199" selection-start-column="20" selection-end-line="199" selection-end-column="36" />
+        <state relative-caret-position="781">
+          <caret line="164" column="26" selection-start-line="164" selection-start-column="13" selection-end-line="164" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/session.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/backend.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="11" />
+        <state relative-caret-position="748">
+          <caret line="385" selection-start-line="385" selection-end-line="387" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Http/Models/UserExtra.php">
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="-208">
+          <caret line="594" lean-forward="true" selection-start-line="594" selection-end-line="594" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/CheckForMaintenanceMode.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/TrimStrings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Http/Middleware/SetCacheHeaders.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-78">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ValidateSignature.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Access/Gate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="93" column="20" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authorize.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2346">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/KeyValueCollection.php">
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Assets/css/themes/xeco.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2019_02_13_212153_create_sessions_table.php">
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/nav.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Session/Middleware/AuthenticateSession.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Application.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="840" column="20" selection-start-line="840" selection-start-column="20" selection-end-line="840" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/ClockWorkAuthenticator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/debugbar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/RussianCaching.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="46" column="31" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/TranslationLoaderManager.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/ResponseSerializer.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/TranslationLoaders/DB.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Providers/MatryoshkaServiceProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Config/orbitali.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="75" selection-start-line="46" selection-start-column="75" selection-end-line="46" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/LoginController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="68" column="43" selection-start-line="68" selection-start-column="43" selection-end-line="68" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Http/Middleware/FlushViews.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="-323">
+          <caret line="244" column="29" lean-forward="true" selection-start-line="244" selection-start-column="29" selection-end-line="244" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Providers/OrbitaliServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="53" column="34" lean-forward="true" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+        <state relative-caret-position="417">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="e#38#85#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Http/Traits/KeyValueModel.php">
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Providers/MatryoshkaServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Http/Traits/ExtendExtra.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Assets/js/laravel.app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="93" column="39" lean-forward="true" selection-start-line="93" selection-start-column="39" selection-end-line="93" selection-end-column="39" />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Http/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Config/orbitali.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RedirectsUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ThrottlesLogins.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1371">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Views/auth/passwords/email.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/SendsPasswordResetEmails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Views/dashboard/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/RegisterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="39" column="64" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/ForgotPasswordController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/ResetPasswordController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="36" column="64" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/Auth/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="91" column="26" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/header/user.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/header/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Views/auth/login.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="117" column="20" lean-forward="true" selection-start-line="117" selection-start-column="20" selection-end-line="117" selection-end-column="20" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4787#6430#0#HTML" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
         </state>
       </provider>
     </entry>

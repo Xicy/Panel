@@ -20,6 +20,7 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 </head>
 <body>
 <div id="app">
@@ -81,24 +82,6 @@
     </main>
 </div>
 
-
-<div class="row">
-
-    <div id="visual_design" style="background: red;padding: 5px" class="col-8 my-0">
-
-    </div>
-    <div id="visual_elements" style="background: blue;padding: 5px" class="col-4 my-0">
-        <div class="item nestedable" style="background: cyan;padding: .75rem 1.25rem;margin: 10px 0 0 0"
-             data-type="detail">
-            detail
-        </div>
-        <div class="item nestedable" style="background: green;padding: .75rem 1.25rem;margin: 10px 0 0 0"
-             data-type="detail">
-            detail 2
-        </div>
-    </div>
-
-</div>
 
 <script>
     function toJSON(node) {
@@ -176,6 +159,26 @@
         return node;
     }
 </script>
+
+<div class="row">
+
+    <div id="visual_design" style="background: red;padding: 5px" class="col-8 my-0">
+
+    </div>
+    <div id="visual_elements" style="background: blue;padding: 5px" class="col-4 my-0">
+        <div class="item nestedable" style="background: cyan;padding: .75rem 1.25rem;margin: 10px 0 0 0"
+             data-type="detail">
+            detail
+        </div>
+        <div class="item nestedable" style="background: green;padding: .75rem 1.25rem;margin: 10px 0 0 0"
+             data-type="detail">
+            detail 2
+        </div>
+    </div>
+
+</div>
+
+
 <script type="text/javascript">
     (function () {
         'use strict';
@@ -215,7 +218,6 @@
         console.log(visual_elements, visual_design);
     })();
 </script>
-
 
 </body>
 </html>
