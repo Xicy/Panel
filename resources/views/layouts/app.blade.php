@@ -31,7 +31,7 @@
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                     aria-controls="navbarSupportedContent" aria-expanded="false"
-                    aria-label="{{ __('toggle_navigation','Toggle navigation') }}">
+                    aria-label="@lang(['toggle_navigation','Toggle navigation'])">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
@@ -40,16 +40,16 @@
                 <ul class="navbar-nav mr-auto">
 
                 </ul>
-            @lang("test:test4","test")
+            @lang(["test:test4","test"])
             <!-- Right Side Of Navbar -->
                 <ul class="navbar-nav ml-auto">
                     <!-- Authentication Links -->
                     @guest
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('login') }}">{{ __('login','Login') }}</a>
+                            <a class="nav-link" href="{{ route('login') }}">@lang(['login','Login'])</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('register') }}">{{ __('register','Register') }}</a>
+                            <a class="nav-link" href="{{ route('register') }}">@lang(['register','Register'])</a>
                         </li>
                     @else
                         <li class="nav-item dropdown">
@@ -62,7 +62,7 @@
                                 <a class="dropdown-item" href="{{ route('logout') }}"
                                    onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">
-                                    {{ __('logout','Logout') }}
+                                    @lang(['logout','Logout'])
                                 </a>
 
                                 <form id="logout-form" action="{{ route('logout') }}" method="POST"
