@@ -4,39 +4,15 @@
     <option name="ANALYZE_TEST_SOURCES" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0328d68-5d08-4185-be18-6166a628e45d" name="Default Changelist" comment="--- Orbitali Status ---&#10;* Website updated with resouces route">
+    <list default="true" id="a0328d68-5d08-4185-be18-6166a628e45d" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Helpers/Relation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Helpers/Route.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Helpers/Structure.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Helpers/Translate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Renderables/Detail.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Panel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Panel.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/TestController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/TestController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/Todo.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/Todo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Database/Migrations/2019_02_10_000012_create_nodes_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Database/Migrations/2019_02_10_000012_create_nodes_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Orbitali.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Orbitali.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/NodeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/NodeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/WebsiteController.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Controllers/WebsiteController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Models/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Models/Category.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Models/Form.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Models/Form.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Models/Node.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Models/Node.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Models/Page.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/Models/Page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/helpers.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Http/helpers.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Providers/OrbitaliServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Providers/OrbitaliServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/nav.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/inc/nav.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/node/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/node/edit.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/node/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/node/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/structure/builder.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/structure/builder.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/website/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/website/edit.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/website/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core/src/Views/website/index.blade.php" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -185,7 +161,7 @@
           <entry key="scss" value="1" />
           <entry key="sh" value="1" />
           <entry key="stub" value="1020" />
-          <entry key="txt" value="7057" />
+          <entry key="txt" value="7456" />
           <entry key="xml" value="1" />
           <entry key="yml" value="114" />
         </counts>
@@ -204,7 +180,7 @@
           <entry key="JavaScript" value="107" />
           <entry key="Markdown" value="1103" />
           <entry key="PHP" value="40730" />
-          <entry key="PLAIN_TEXT" value="7303" />
+          <entry key="PLAIN_TEXT" value="7702" />
           <entry key="SCSS" value="1" />
           <entry key="Scratch" value="196" />
           <entry key="SmartyConfig" value="203" />
@@ -239,11 +215,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Helpers/Structure.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+            <state relative-caret-position="187">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="e#49#91#0#PHP" expanded="true" />
               </folding>
@@ -251,11 +227,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Views/structure/builder.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="124" column="68" selection-start-line="124" selection-start-column="68" selection-end-line="124" selection-end-column="68" />
+            <state relative-caret-position="442">
+              <caret line="125" column="44" selection-start-line="125" selection-start-column="44" selection-end-line="125" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -1686,21 +1662,7 @@
       <workItem from="1550601201152" duration="18279000" />
       <workItem from="1550674836452" duration="40986000" />
       <workItem from="1550914004377" duration="19820000" />
-      <workItem from="1551028875430" duration="24723000" />
-    </task>
-    <task id="LOCAL-00043" summary="düzenleme yapıldı">
-      <created>1536174055406</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1536174055406</updated>
-    </task>
-    <task id="LOCAL-00044" summary="plugin düzenlendi">
-      <created>1536177634315</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1536177634315</updated>
+      <workItem from="1551028875430" duration="24977000" />
     </task>
     <task id="LOCAL-00045" summary="otrans -&gt; trans'a çevrildi &#10;key_split_and_save_for_trans düzenlendi daha düzgün çalışıyor&#10;LanguagePart::getTranslation fallback kaldırıldı&#10;LanguagePart::hasLocale eklendi">
       <created>1536184181743</created>
@@ -2031,11 +1993,25 @@
       <option name="project" value="LOCAL" />
       <updated>1551074000226</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="--- Orbitali Status ---&#10;* Node migration updated for preCreate&#10;* Helpers split in own classes&#10;* Renderabled added for form render&#10;* add validation rules to Node and Website controllers&#10;* detail method fixed &#10;* helper.php cleaned&#10;* Html builder added thx to Spatie&#10;* added Validation rule for checkbox&#10;* blades fixed for new html builder&#10;* frontend helpers.php linked with composer">
+      <created>1551224936917</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1551224936917</updated>
+    </task>
+    <task id="LOCAL-00093" summary="--- Orbitali Status ---&#10;*">
+      <created>1551224972848</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1551224972848</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="434181000" />
+    <option name="totallyTimeSpent" value="434435000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -2134,8 +2110,6 @@
       <path value="$PROJECT_DIR$/vendor/orbitali/core/vendor/tijsverkoyen/css-to-inline-styles" />
       <path value="$PROJECT_DIR$/vendor/orbitali/core/vendor/vlucas/phpdotenv" />
     </ignored-roots>
-    <MESSAGE value="orbitali git" />
-    <MESSAGE value="---- Orbitali Updates ----&#10;*Added Tables&#10;**Website&#10;**Url&#10;**Sitemap&#10;**Page&#10;**Category&#10;&#10;*Removes&#10;Orbitali facade deleted, foundatin class linked with bind, and you call with `orbitali()`&#10;&#10;*Fixs&#10;Softdelete add in UserModel&#10;&#10;Orbitali class updated for cache system and model relation system&#10;helpers.php updated &#10;**orbitali&#10;**gravatar&#10;&#10;Added new Blueprint macros&#10;*details($name, $table = null)&#10;*extras($name, $table = null)&#10;*defaultFields&#10;*nestable($parent=&quot;&quot;) //name_id&#10;*orderable" />
     <MESSAGE value="--- Code Style ---&#10;Fixed for Codacy" />
     <MESSAGE value="--- Orbitali Status ---&#10;*Language and Country moved to database directory&#10;*Language and Country added inside seeder of lang_part&#10;&#10;*Migration names are changed and linked staticly&#10;&#10;*Localization finder disabled for now&#10;&#10;*Models' updated" />
     <MESSAGE value="--- Orbitali Status ---&#10;*Added Seed service&#10;*Split Blueprint service&#10;*Added ExtendExtra trait __get and __set, must be add $withoutExtra = [/*columns of table*/] and trait&#10;*Added WebsiteLanguage&#10;*Fixed category table&#10;*Fixed namespace of seeds" />
@@ -2159,7 +2133,9 @@
     <MESSAGE value="--- Orbitali Status ---&#10;* Form migration updated&#10;* NodeTrait fixed for codacy&#10;* Added form post trait&#10;   Add FormSubmission in class" />
     <MESSAGE value="--- Orbitali Status ---&#10;* Added redirect type for url" />
     <MESSAGE value="--- Orbitali Status ---&#10;* User migration updated for laravel&#10;* added default language and country inside panel&#10;* Node and Structure controller added&#10;* form render added&#10;* relationFinder added" />
-    <option name="LAST_COMMIT_MESSAGE" value="--- Orbitali Status ---&#10;* User migration updated for laravel&#10;* added default language and country inside panel&#10;* Node and Structure controller added&#10;* form render added&#10;* relationFinder added" />
+    <MESSAGE value="--- Orbitali Status ---&#10;* Node migration updated for preCreate&#10;* Helpers split in own classes&#10;* Renderabled added for form render&#10;* add validation rules to Node and Website controllers&#10;* detail method fixed &#10;* helper.php cleaned&#10;* Html builder added thx to Spatie&#10;* added Validation rule for checkbox&#10;* blades fixed for new html builder&#10;* frontend helpers.php linked with composer" />
+    <MESSAGE value="--- Orbitali Status ---&#10;*" />
+    <option name="LAST_COMMIT_MESSAGE" value="--- Orbitali Status ---&#10;*" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -2518,16 +2494,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Helpers/Structure.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-          <folding>
-            <element signature="e#49#91#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Renderables/Detail.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -2537,8 +2503,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Views/structure/builder.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="124" column="68" selection-start-line="124" selection-start-column="68" selection-end-line="124" selection-end-column="68" />
+        <state relative-caret-position="442">
+          <caret line="125" column="44" selection-start-line="125" selection-start-column="44" selection-end-line="125" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Helpers/Structure.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#49#91#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
