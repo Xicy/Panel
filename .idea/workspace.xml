@@ -4,15 +4,9 @@
     <option name="ANALYZE_TEST_SOURCES" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0328d68-5d08-4185-be18-6166a628e45d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Panel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Panel.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="a0328d68-5d08-4185-be18-6166a628e45d" name="Default Changelist" comment="--- Orbitali Status ---&#10;*">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/orbitali/core" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/orbitali/core" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,7 +89,7 @@
           <entry key="iml" value="1" />
           <entry key="ini" value="4" />
           <entry key="js" value="48" />
-          <entry key="json" value="97" />
+          <entry key="json" value="98" />
           <entry key="less" value="1" />
           <entry key="lock" value="4" />
           <entry key="log" value="1" />
@@ -126,7 +120,7 @@
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="1" />
           <entry key="Ini" value="4" />
-          <entry key="JSON" value="101" />
+          <entry key="JSON" value="102" />
           <entry key="JavaScript" value="46" />
           <entry key="Less" value="1" />
           <entry key="Log" value="1" />
@@ -215,14 +209,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Helpers/Structure.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding>
                 <element signature="e#49#91#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -345,7 +348,6 @@
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Orbitali.php" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Helpers/Relation.php" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Helpers/Translate.php" />
-        <option value="$PROJECT_DIR$/vendor/orbitali/core/composer.json" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Http/helpers.php" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Helpers/Route.php" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Views/website/index.blade.php" />
@@ -370,6 +372,7 @@
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Renderables/Li.php" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Helpers/Structure.php" />
         <option value="$PROJECT_DIR$/vendor/orbitali/core/src/Views/structure/builder.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/orbitali/core/composer.json" />
       </list>
     </option>
   </component>
@@ -651,73 +654,6 @@
               <item name="vendor" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="orbitali" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="core" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Panel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="vendor" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="orbitali" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="core" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Panel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="vendor" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="orbitali" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="core" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Foundations" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Panel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="vendor" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="orbitali" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="core" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Foundations" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Html" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Panel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="vendor" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="orbitali" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="core" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Foundations" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Html" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Elements" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Panel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="vendor" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="orbitali" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="core" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Foundations" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Renderables" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Panel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="vendor" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="orbitali" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="core" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Panel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="vendor" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="orbitali" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="core" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="structure" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -1662,14 +1598,7 @@
       <workItem from="1550601201152" duration="18279000" />
       <workItem from="1550674836452" duration="40986000" />
       <workItem from="1550914004377" duration="19820000" />
-      <workItem from="1551028875430" duration="24977000" />
-    </task>
-    <task id="LOCAL-00045" summary="otrans -&gt; trans'a çevrildi &#10;key_split_and_save_for_trans düzenlendi daha düzgün çalışıyor&#10;LanguagePart::getTranslation fallback kaldırıldı&#10;LanguagePart::hasLocale eklendi">
-      <created>1536184181743</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1536184181743</updated>
+      <workItem from="1551028875430" duration="25159000" />
     </task>
     <task id="LOCAL-00046" summary="düzenlendi">
       <created>1536184211546</created>
@@ -2007,11 +1936,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551224972848</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="--- Orbitali Status ---&#10;*">
+      <created>1551224985835</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1551224985835</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="434435000" />
+    <option name="totallyTimeSpent" value="434617000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -2027,11 +1963,11 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2185501" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2185501" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Command Line Tools Console" order="0" weight="0.32939914" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.4989339" visible="true" weight="0.34656653" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.4989339" visible="true" weight="0.34656653" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5010661" side_tool="true" weight="0.32081544" />
       <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49946696" weight="0.32939914" />
       <window_info anchor="bottom" id="Messages" order="5" weight="0.32939914" />
@@ -2166,13 +2102,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -2510,11 +2439,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/src/Foundations/Helpers/Structure.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
           <folding>
             <element signature="e#49#91#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/orbitali/core/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
         </state>
       </provider>
     </entry>
