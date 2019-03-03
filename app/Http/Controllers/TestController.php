@@ -9,7 +9,7 @@ class TestController extends Controller
 {
     use FormSubmission;
 
-    public function nodeDetails(Orbitali $orb)
+    public function pageDetails(Orbitali $orb)
     {
         /* Orbitali::macro("groupExpander",function ($name,$relation,$keys){
             $this->$name = groupExpander($relation,$keys);
@@ -17,12 +17,11 @@ class TestController extends Controller
 
          $orb->groupExpander('galary',$orb->relation, ['icon', 'title', 'detail']);
          dd($orb);*/
-
         return response("
        <form action='#' method='post'>
-       <input type='hidden' name='form_key' value='test_form'/>
-       <input type='text' name='test'/>
-        </form>
+            <input type='hidden' name='form_key' value='test_form'/>
+            <input type='text' name='test'/>
+       </form>
        ");
     }
 
